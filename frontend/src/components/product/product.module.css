@@ -1,0 +1,14 @@
+.product_name
+{
+    min-width:250px;
+    display:inline-block;
+}
+.product_price
+{
+    min-width:250px;
+    display:inline-block;
+}
+.product_not_in_stock
+{
+    color:red;
+}
